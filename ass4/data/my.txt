@@ -1,0 +1,2 @@
+CNN: http://rss.cnn.com/rss/edition_world.rss
+BBC: http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml

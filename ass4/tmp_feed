@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>BBC News - Home</title>
+        <description>BBC News - Home</description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 25 Nov 2020 13:07:47 GMT</lastBuildDate>
+        <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>
+        <language>en-gb</language>
+        <ttl>15</ttl>
+        <item>
+            <title>US election 2020: Biden says White House co-operation 'sincere'</title>
+            <description>The president-elect describes the Trump administration's help with the transition as not "begrudging".</description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55068277</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55068277</guid>
+            <pubDate>Wed, 25 Nov 2020 09:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title>Meghan: Duchess of Sussex tells of miscarriage 'pain and grief'</title>
+            <description>"I knew, as I clutched my firstborn child, that I was losing my second," Meghan writes in an article.</description>
+            <link>https://www.bbc.co.uk/news/uk-55068783</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55068783</guid>
+            <pubDate>Wed, 25 Nov 2020 13:05:24 GMT</pubDate>
+        </item>
+        <item>
+            <title>Russia 'threatened to ram' US ship in Sea of Japan</title>
+            <description>Moscow says a US Navy destroyer entered its territorial waters on Tuesday.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55066861</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55066861</guid>
+            <pubDate>Wed, 25 Nov 2020 03:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title>Coronavirus: How Europeans are preparing for Christmas and New Year</title>
+            <description>Measures designed to contain the coronavirus pandemic will change how millions of people celebrate.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55058362</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55058362</guid>
+            <pubDate>Wed, 25 Nov 2020 11:59:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>The Weeknd calls Grammy Awards 'corrupt' after nominations snub</title>
+            <description>The Blinding Lights singer was expected to perform strongly, but didn't get any nominations.</description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55070142</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55070142</guid>
+            <pubDate>Wed, 25 Nov 2020 10:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>US election: Daily Show comedian Jordan Klepper on Trump and his supporters</title>
+            <description>Jordan Klepper has become known for his Trump supporter interviews with Trevor Noah.</description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55067026</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55067026</guid>
+            <pubDate>Wed, 25 Nov 2020 01:33:25 GMT</pubDate>
+        </item>
+        <item>
+            <title>Ethiopia's Tigray crisis: Abiy Ahmed 'rejects international interference'</title>
+            <description>Prime Minister Abiy Ahmed says it is an internal matter amid growing international concern.</description>
+            <link>https://www.bbc.co.uk/news/world-africa-55064746</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55064746</guid>
+            <pubDate>Wed, 25 Nov 2020 09:14:41 GMT</pubDate>
+        </item>
+        <item>
+            <title>Thailand's 'largest ketamine bust' turns out to be cleaning agent</title>
+            <description>The justice minister says it was a "misunderstanding" because of a "technical error" in field testing.</description>
+            <link>https://www.bbc.co.uk/news/world-asia-55067876</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-55067876</guid>
+            <pubDate>Wed, 25 Nov 2020 03:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title>SLS: Nasa 'megarocket' assembly begins in Florida</title>
+            <description>Nasa has stacked the first pieces of the Space Launch System (SLS) rocket at Florida's Kennedy Space Center.</description>
+            <link>https://www.bbc.co.uk/news/science-environment-55070302</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55070302</guid>
+            <pubDate>Wed, 25 Nov 2020 11:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title>Cyclone Nivar: Heavy rain lashes India as storm approaches</title>
+            <description>Cyclone Nivar is due to make landfall along the south-eastern coast shortly after midnight.</description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-55068379</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-55068379</guid>
+            <pubDate>Wed, 25 Nov 2020 11:57:34 GMT</pubDate>
+        </item>
+        <item>
+            <title>Loujain al-Hathloul: Trial of jailed Saudi women's rights activist to resume</title>
+            <description>The family of Loujain al-Hathloul, who began a hunger strike a month ago, hope she will be freed.</description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-55069863</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-55069863</guid>
+            <pubDate>Wed, 25 Nov 2020 10:58:34 GMT</pubDate>
+        </item>
+        <item>
+            <title>Germany Merkel: Car rams into chancellery gate ahead of Covid decision</title>
+            <description>The car had messages, including one criticising "globalisation politics", written on its sides.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55069047</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55069047</guid>
+            <pubDate>Wed, 25 Nov 2020 10:57:56 GMT</pubDate>
+        </item>
+        <item>
+            <title>Jay-Z to be new cannabis company's 'chief visionary officer'</title>
+            <description>The rapper and entrepreneur will act as "chief visionary officer" for the new weed brand TPCO.</description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55069379</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55069379</guid>
+            <pubDate>Wed, 25 Nov 2020 12:07:42 GMT</pubDate>
+        </item>
+        <item>
+            <title>Europe migrant crisis: Rescuers find owners of wedding rings lost at sea</title>
+            <description>The team had feared the owners of the rings, inscribed with the names Ahmed and Doudou, were dead.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55070953</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55070953</guid>
+            <pubDate>Wed, 25 Nov 2020 12:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title>How sunshine can make the railways greener</title>
+            <description>The railways in the UK, Australia and India getting power from the sun in different ways.</description>
+            <link>https://www.bbc.co.uk/news/stories-55044198</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-55044198</guid>
+            <pubDate>Wed, 25 Nov 2020 01:12:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>Driver trapped in sinking car rescued by Ohio police officers</title>
+            <description>Officers in Ohio smashed a window to pull out the driver before the vehicle became fully submerged.</description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55064808</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55064808</guid>
+            <pubDate>Tue, 24 Nov 2020 20:31:35 GMT</pubDate>
+        </item>
+        <item>
+            <title>Nagorno-Karabakh: The family that lost everything</title>
+            <description>Maria and her children were driven from their home in Nagorno-Karabakh due to the ongoing conflict.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55062224</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55062224</guid>
+            <pubDate>Wed, 25 Nov 2020 00:04:22 GMT</pubDate>
+        </item>
+        <item>
+            <title>Zahara: Violence against women in South Africa 'a pandemic'</title>
+            <description>Zahara, a platinum-selling singer in South Africa, talks to the BBC about surviving a violent attack.</description>
+            <link>https://www.bbc.co.uk/news/world-africa-54988358</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54988358</guid>
+            <pubDate>Wed, 25 Nov 2020 00:02:28 GMT</pubDate>
+        </item>
+        <item>
+            <title>California cave depicts hallucinogenic plant, study finds</title>
+            <description>Researchers also found chewed remains of the plant, which has psychoactive effects, in the cave.</description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55070442</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55070442</guid>
+            <pubDate>Wed, 25 Nov 2020 12:14:55 GMT</pubDate>
+        </item>
+        <item>
+            <title>Saving a baby squirrel with smoothies and massages</title>
+            <description>A couple took in the red squirrel after it was found injured and near death on a roadside.</description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-55047757</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-55047757</guid>
+            <pubDate>Wed, 25 Nov 2020 02:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title>Coronavirus: French lockdown highlights small business struggles</title>
+            <description>The online giant has postponed Black Friday in France after pressure from the government.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55062222</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55062222</guid>
+            <pubDate>Wed, 25 Nov 2020 00:10:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>Brain imaging technology designed for babies</title>
+            <description>Scientists demonstrate a scanning device that will make it easier to study the brain.</description>
+            <link>https://www.bbc.co.uk/news/technology-55062221</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-55062221</guid>
+            <pubDate>Wed, 25 Nov 2020 00:05:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>A harsh reality in coal country - with or without Trump</title>
+            <description>Built on coal, Colstrip has been under threat for years. It may not matter who sits in the Oval Office.</description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55050347</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55050347</guid>
+            <pubDate>Wed, 25 Nov 2020 02:19:31 GMT</pubDate>
+        </item>
+        <item>
+            <title>US election 2020: What is the presidential transition?</title>
+            <description>The transition process is finally under way even though President Trump has not given up his legal challenges.</description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55045075</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55045075</guid>
+            <pubDate>Tue, 24 Nov 2020 10:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title>New Brunswick outbreak: How a smalltown doctor became a Covid pariah</title>
+            <description>After being labelled "patient zero", a small-town physician in Canada was shunned.</description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54686672</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54686672</guid>
+            <pubDate>Wed, 25 Nov 2020 01:23:46 GMT</pubDate>
+        </item>
+        <item>
+            <title>Ethiopia's Tigray crisis: Fears of ethnic profiling stalk conflict</title>
+            <description>Some ethnic Tigrayans complain of harassment and discrimination - an allegation the government denies.</description>
+            <link>https://www.bbc.co.uk/news/world-africa-55043373</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55043373</guid>
+            <pubDate>Wed, 25 Nov 2020 01:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Tracking the global pandemic: Where is it surging?</title>
+            <description>Key charts and maps explaining how the virus has spread around the world.</description>
+            <link>https://www.bbc.co.uk/news/world-51235105</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
+            <pubDate>Wed, 25 Nov 2020 09:48:50 GMT</pubDate>
+        </item>
+        <item>
+            <title>Dating coach Sami Wunder reveals dilemma when starting out</title>
+            <description>When Sami Wunder started out as a dating and relationships coach there was one issue that scared her.</description>
+            <link>https://www.bbc.co.uk/news/business-55020945</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55020945</guid>
+            <pubDate>Wed, 25 Nov 2020 00:00:22 GMT</pubDate>
+        </item>
+        <item>
+            <title>Why Bhutan's Sakteng wildlife sanctuary is disputed by China</title>
+            <description>Tiny Bhutan is feeling the squeeze as its giant neighbours China and India vie for territory.</description>
+            <link>https://www.bbc.co.uk/news/world-asia-55004196</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-55004196</guid>
+            <pubDate>Wed, 25 Nov 2020 00:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title>What Biden's new foreign policy team tells us</title>
+            <description>US foreign policy experts weigh in on what the new slate of top diplomats means for global affairs.</description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55048975</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55048975</guid>
+            <pubDate>Tue, 24 Nov 2020 01:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title>Afghanistan, home to the heroin trade, moves into meth</title>
+            <description>A new report warns Afghanistan is becoming a major methamphetamine producer, leaving addicts in its wake.</description>
+            <link>https://www.bbc.co.uk/news/world-asia-55048147</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-55048147</guid>
+            <pubDate>Tue, 24 Nov 2020 00:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title>England's Sciver leads Melbourne Stars to Women's Big Bash final</title>
+            <description>A fine all-round display from England's Nat Sciver helps Melbourne Stars to a place in the Women's Big Bash final with a dominant semi-final victory over Perth Scorchers in Sydney.</description>
+            <link>https://www.bbc.co.uk/sport/cricket/55047612</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/55047612</guid>
+            <pubDate>Wed, 25 Nov 2020 11:45:04 GMT</pubDate>
+        </item>
+        <item>
+            <title>Liverpool quartet, Bronze & Bielsa up for Fifa awards</title>
+            <description>Four Liverpool players, England's Lucy Bronze and Leeds United boss Marcelo Bielsa are up for prizes at the Best Fifa Football Awards 2020.</description>
+            <link>https://www.bbc.co.uk/sport/football/55070903</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55070903</guid>
+            <pubDate>Wed, 25 Nov 2020 12:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title>Christian Eriksen: How did ex-Tottenham midfielder's Inter Milan dream turn into a nightmare?</title>
+            <description>Long linked with Real Madrid but now at Inter Milan, Christian Eriksen's dream has turned into a nightmare so far in Italy.</description>
+            <link>https://www.bbc.co.uk/sport/football/54974803</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54974803</guid>
+            <pubDate>Wed, 25 Nov 2020 06:25:57 GMT</pubDate>
+        </item>
+        <item>
+            <title>Dominik Szoboszlai: The Red Bull Salzburg star catching Europe's eye</title>
+            <description>Dominik Szoboszlai is attracting attention in Europe and leading Red Bull Salzburg's Champions League hopes.</description>
+            <link>https://www.bbc.co.uk/sport/football/55038201</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55038201</guid>
+            <pubDate>Wed, 25 Nov 2020 06:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>Christophe Dominici: French rugby legend dies aged 48</title>
+            <description>Christophe Dominici was best known for helping France knock New Zealand out of the 1999 Rugby World Cup.</description>
+            <link>https://www.bbc.co.uk/news/55056643</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/55056643</guid>
+            <pubDate>Tue, 24 Nov 2020 19:01:22 GMT</pubDate>
+        </item>
+        <item>
+            <title>Quicker than anyone to 15 Champions League goals - can Haaland be the world's best?</title>
+            <description>Erling Braut Haaland just cannot stop scoring. Is the Norway and Borussia Dortmund striker destined to dominate world football?</description>
+            <link>https://www.bbc.co.uk/sport/football/54868208</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54868208</guid>
+            <pubDate>Tue, 24 Nov 2020 21:24:31 GMT</pubDate>
+        </item>
+        <item>
+            <title>The assassination of a ‘Brave Journalist of Afghanistan’</title>
+            <description>Aliyas Dayee, a "voice for the voiceless" in Helmand, was killed by a bomb earlier this month.</description>
+            <link>https://www.bbc.co.uk/news/55021074</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/55021074</guid>
+            <pubDate>Mon, 23 Nov 2020 01:24:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
